@@ -2,7 +2,7 @@
 
 Submitted by: **Maaz Mansuri**
 
-**TesterApp** is an app that features 3 labels, each stating my name, the university I attend, and the profession I aspire to be in. In addition, TesterApp features a button and a slider. The button labeled "RANDOM" changes the background to a random color when pressed, the slider feature, named "Opacity Slider" allows for the adjustment of the Opacity for the color. The slider was a feature I personally in addition to the required prework. [TODO] 
+**TesterApp** is an app that features 3 labels, each stating my name, the university I attend, and the profession I aspire to be in. In addition, TesterApp features a button and a slider. The button labeled "RANDOM" changes the background to a random color when pressed, the slider feature, named "Opacity Slider" allows for the adjustment of the Opacity for the color. The slider was a feature I personally added in addition to the required prework.  
 
 Time spent: **2** hours spent in total
 
@@ -10,12 +10,10 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Users are see a screen with three labels and a button
+- [x] Users can see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 <div>
     <a href="https://www.loom.com/share/c4ca195d3b6d442599b4bc404d087144">
@@ -24,11 +22,6 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c4ca195d3b6d442599b4bc404d087144-with-play.gif">
     </a>
   </div>
-
-
-  
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 - Discord

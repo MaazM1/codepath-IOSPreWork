@@ -17,6 +17,17 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
+<div>
+    <a href="https://www.loom.com/share/c4ca195d3b6d442599b4bc404d087144">
+    </a>
+    <a href="https://www.loom.com/share/c4ca195d3b6d442599b4bc404d087144">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c4ca195d3b6d442599b4bc404d087144-with-play.gif">
+    </a>
+  </div>
+
+
+  
+
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
@@ -27,13 +38,21 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Apple Maps
     - Extremely accurate time estimations on arrival
     - Traffic calculator to plan better trips
-    - Overall navigation
+    - Overall navigation and adjustment of path when a wrong turn is taken
+    
+- Spotify
+    - Easy and seamless connectability with other devices through bluetooth, sound output is easily transferred to a car without any manual input
+    - Music keeps playing even if you turn off your phone or leave the app
+    
+- Apple Notes
+    - Connectivity with apple pencil, seamless, smooth and paper like writing
+    - Shape recognizer, if you draw a line and hold, it'll turn it into a perfect line, if you draw a square and hold, it'll turn it into a perfect square.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 - Issues finding correct buttons, navigating xCode as a whole. 
-- When trying to add my slider feature, I had issues opening up the assistant so that I can link my slider to the code, same as I did with the button. 
+- When trying to add my slider feature, I had issues opening up the assistant so that I can link my slider to the code. 
 ## License
 
     Copyright [2023] [Maaz Mansuri]
